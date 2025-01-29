@@ -1,7 +1,7 @@
 # 8-bit Arithmetic Logic Unit (ALU)  
 
 ## 📌 Project Overview  
-This project demonstrates the design and implementation of an **8-bit Arithmetic Logic Unit (ALU)** using fundamental **logic gates** and **integrated circuits (ICs)**. The ALU is the core computational unit of all digital computing devices, performing basic arithmetic and logic operations.
+This project was developed under the **EE-172 Digital Logic and Design** course at **Habib University** during Fall 2017. It demonstrates the design and implementation of an **8-bit Arithmetic Logic Unit (ALU)** using fundamental **logic gates** and **integrated circuits (ICs)**. The ALU is the core computational unit of all digital computing devices, performing basic arithmetic and logic operations. 
 
 **VIDEO DEMONSTRATION: https://www.youtube.com/watch?v=_eSiyEh9b9k**  
 
@@ -58,26 +58,8 @@ The total cost of the project was **under PKR 1000**, as it utilized basic ICs a
 ## 📌 Conclusion  
 This project serves as an **introductory digital logic** design exercise, helping students understand how **basic logic circuits** integrate into larger computational systems. Though simple, it provides hands-on experience with **binary arithmetic operations, digital logic design, and hardware troubleshooting**.  
 
----
 
-### 🔗 Future Enhancements  
-- 🚀 Implementing **division operation**.  
-- 🚀 Expanding to **8-bit operations** for better computational range.  
-- 🚀 Using **FPGA/microcontrollers** for more efficient digital computation.  
-- 🚀 Improving display logic for better **binary-to-decimal representation**.  
 
----
-
-## 📜 License  
-This project is open-source and available under the **GPL-3.0 license**.  
-
-## 📚 Course Details  
-- **Course:** EE-172 Digital Logic and Design   
-
-## 👨‍💻 Developed By  
-- **Sarwan Shah**  
-
----
 
 ### 📥 How to Use  
 1. Connect the circuit as per the provided **circuit diagram**.  
