@@ -69,7 +69,7 @@ This project serves as an **introductory digital logic** design exercise, helpin
 ---
 
 ## 📜 License  
-This project is open-source and available under the **MIT License**.  
+This project is open-source and available under the **GPL-3.0 license**.  
 
 ## 📚 Course Details  
 - **Course:** EE-172 Digital Logic and Design   
@@ -85,6 +85,3 @@ This project is open-source and available under the **MIT License**.
 3. Select the operation using the **toggle switch**.  
 4. Observe the output on **LEDs (Addition/Subtraction) or 7-Segment Display (Multiplication)**.  
 
----
-
-🛠 **Happy Building!** 🛠
