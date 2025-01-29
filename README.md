@@ -70,9 +70,7 @@ This project serves as an **introductory digital logic** design exercise, helpin
 This project is open-source and available under the **MIT License**.  
 
 ## 📚 Course Details  
-- **Course:** EE-172 Digital Logic and Design  
-- **Instructor:** _(Add Instructor Name if required)_  
-- **University:** _(Add University Name if required)_  
+- **Course:** EE-172 Digital Logic and Design   
 
 ## 👨‍💻 Developed By  
 - **Sarwan Shah**  
