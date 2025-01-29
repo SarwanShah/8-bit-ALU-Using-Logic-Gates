@@ -1,7 +1,9 @@
 # 8-bit Arithmetic Logic Unit (ALU)  
 
 ## 📌 Project Overview  
-This project demonstrates the design and implementation of an **8-bit Arithmetic Logic Unit (ALU)** using fundamental **logic gates** and **integrated circuits (ICs)**. The ALU is the core computational unit of all digital computing devices, performing basic arithmetic and logic operations.  
+This project demonstrates the design and implementation of an **8-bit Arithmetic Logic Unit (ALU)** using fundamental **logic gates** and **integrated circuits (ICs)**. The ALU is the core computational unit of all digital computing devices, performing basic arithmetic and logic operations.
+
+**VIDEO DEMONSTRATION: https://www.youtube.com/watch?v=_eSiyEh9b9k**  
 
 ## 🛠 Features  
 - ✅ **Binary Addition** (4-bit full adder)  
