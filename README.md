@@ -5,7 +5,6 @@ This project was developed under the **EE-172 Digital Logic and Design** course 
 
 **VIDEO DEMONSTRATION: https://www.youtube.com/watch?v=_eSiyEh9b9k**  
 <a href="https://www.youtube.com/watch?v=_eSiyEh9b9k" target="_blank">
-    <img src="https://img.youtube.com/vi/_eSiyEh9b9k/maxresdefault.jpg" alt="Watch the video" width="400" style="position: relative;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Play-button-icon.png" alt="Play Button" width="80" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
 </a>
 
