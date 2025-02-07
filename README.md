@@ -4,7 +4,7 @@
 This project was developed under the **EE-172 Digital Logic and Design** course at **Habib University** during Fall 2017. It demonstrates the design and implementation of an **8-bit Arithmetic Logic Unit (ALU)** using fundamental **logic gates** and **integrated circuits (ICs)**. The ALU is the core computational unit of all digital computing devices, performing basic arithmetic and logic operations. 
 
 **VIDEO DEMONSTRATION: https://www.youtube.com/watch?v=_eSiyEh9b9k**  
-[![Video Thumbnail](thumbnail-url)](https://www.youtube.com/watch?v=_eSiyEh9b9k)
+[![Video Thumbnail](https://www.youtube.com/watch?v=_eSiyEh9b9k)](https://www.youtube.com/watch?v=_eSiyEh9b9k)
 
 **REPORT: https://github.com/SarwanShah/8-bit-ALU-Using-Logic-Gates/blob/main/Project%20Report.pdf**
 
