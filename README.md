@@ -5,7 +5,7 @@ This project was developed under the **EE-172 Digital Logic and Design** course 
 
 **VIDEO DEMONSTRATION: https://www.youtube.com/watch?v=_eSiyEh9b9k**  
 [![Watch the video](https://img.youtube.com/vi/_eSiyEh9b9k/maxresdefault.jpg)](https://www.youtube.com/watch?v=_eSiyEh9b9k)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_eSiyEh9b9k?si=WoHu-PvXlvLEKGT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **REPORT: https://github.com/SarwanShah/8-bit-ALU-Using-Logic-Gates/blob/main/Project%20Report.pdf**
 
